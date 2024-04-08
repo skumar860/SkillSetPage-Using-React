@@ -9,7 +9,7 @@ export default function Header() {
   return (
     <header>
       <img src={myReactImage} alt="Stylized atom" />
-      <h1>Hi! Myself Saurabh kumar</h1>
+      <h1>Hi! Myself Saurabh kumar 1</h1>
       <h2>Below are my Skillset</h2>
       <p>
          Possessing a set of {reactDescriptions[getRandomInt(2)]} concepts that I  mostly apply to any app I am going to build.
